@@ -80,7 +80,7 @@ body * {
   z-index: 1;
   transform: translateY(-50%);
 
-  animation: slid-back 0.2;
+  animation: slid-back 0.4s;
 }
 
 .light #switch button {
